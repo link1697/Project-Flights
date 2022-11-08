@@ -1,5 +1,5 @@
 ## Brief Description
-- This project visualize the path from a source to a destination based on the OpenFlights dataset. Use flymap class to store the flights information and use emap class to visualize.
+- This project visualizes the path from a source to a destination based on the OpenFlights dataset. Use flymap class to store the flights information and use emap class to visualize.
 
 ## Compile and Run
 - To run the code based on current dataset, simply run "make" to compile the code. 
