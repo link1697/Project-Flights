@@ -257,7 +257,7 @@ void emap::showanimation(vector<pair<int,int>>& path, int count, string outputfi
     //create 3-D animation
     create3danimate(0, outputfilename,showmap);
 
-    //create another 3-D animation, not suitable for traversal pathes, use count as a fliter.
+    //create another 3-D animation, not suitable for traversal paths, use count as a fliter.
     if( count<=100 )
         create3danimatev2(path, outputfilename);
 }
